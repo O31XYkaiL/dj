@@ -1,0 +1,211 @@
+body {
+    background: #E3FDFD;
+}
+
+aside {
+    float: left;
+    background: #CBF1F5;
+    width: 15%;
+    padding: 0.5%;
+    height: 145vh;
+    color: #71C9CE;
+    border-right: 3px solid #A6E3E9;
+
+
+}
+
+
+aside img {
+    width: 45px;
+    height: 40px;
+    float: left;
+    color: #71C9CE;
+
+}
+
+aside .logo{
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    top: -7px;
+    left: -10px;
+    color: #15898E;
+}
+
+aside h3 {
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+aside ul {list-style: none}
+aside ul li{
+    color: #71C9CE;
+    font-weight: bold;
+    display: block;
+    margin-top: 20px;
+    transition: all .6s ease;
+}
+
+aside ul li:hover, ul a:hover {
+    color: #15898E;
+    text-decoration: none;
+    transform: scale(1.05);
+}
+
+main .features {
+    float: left;
+    color: #71C9CE;
+    text-align: center;
+    width: 75%;
+}
+
+main .features h1 {font-size: 50px;}
+main .features p {max-width: 700px; margin: 50px auto}
+
+footer {
+    width: 100%;
+    float: right;
+    padding: 1.5%;
+    background-color: black;
+    color: #fff;
+    border-down: 15px solid #fff;
+    font-weight: bold;
+}
+
+header {
+    width: 85%;
+    float: right;
+    padding: 1%;
+    background-color: #62CBD0;
+    color: #fff;
+    font-weight: bold;
+    border-down: 3px solid #A6E3E9;
+}
+
+main .text{
+    float: left;
+    color: #71C9CE;
+    margin-top: 45px;
+    text-align: left;
+    width: 80%;
+    margin-left: 30px;
+}
+img .pict{
+    width: 65px;
+    float: center;
+}
+
+main .info2 p2 {max-width: 700px; margin: 50px auto}
+
+main .info2{
+    float: left;
+    color: #71C9CE;
+    margin-top: 45px;
+    text-align: left;
+    width: 80%;
+    margin-left: 20px
+}
+
+table {
+  border-collapse: collapse;
+  line-height: 1.1;
+  background: #2c2c2c;
+  color: #fff;
+}
+
+tr {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+td {
+  font-size: 0.8em;
+  padding: 5px 7px;
+  border: 1px solid black;
+}
+
+table {
+    position: relative;
+    top: 420px;
+    left: 260px;
+}
+
+main .table2 {
+    position: absolute;
+    top: 160px;
+    left: 270px;
+    font-size: 200px;
+}
+
+main .table3 {
+    position: absolute;
+    top: 160px;
+    left: 200px;
+}
+
+main .table4 {
+    position: absolute;
+    top: 160px;
+    left: 600px;
+}
+
+main .table5 {
+    position: absolute;
+    top: 160px;
+    left: 270px;
+    font-size: 200px;
+
+}
+main .table7 {
+    position: absolute;
+    top: 330px;
+    left: 600px;
+}
+
+main .table8 {
+    position: absolute;
+    top: -290px;
+    left: 600px;
+}
+
+main .table10 {
+    position: absolute;
+    top: 20px;
+    left: 600px;
+}
+
+main .pict3 {
+    position: absolute;
+    top: 120px;
+    left: 250px;
+}
+
+main .pict4 {
+    position: absolute;
+    top: 430px;
+    left: 250px;
+}
+
+main .pict5 {
+    position: absolute;
+    top: 740px;
+    left: 250px;
+}
+
+main .pict6 {
+    position: absolute;
+    top: 860px;
+    left: 280px;
+}
+
+main .lastc {
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+
+
+
+
